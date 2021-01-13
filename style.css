@@ -1,0 +1,48 @@
+
+        .tab
+        {
+            background-color: black;
+            border:solid 0px #FFA54F;
+            border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;
+            max-width:200px;
+            width:100%;
+            overflow:hidden;
+            display:block;
+            font-style: italic;
+            padding: 20px 50px;
+        }
+        .clock
+        {
+            vertical-align:middle;
+            font-family:Orbitron;
+            font-size:40px;
+            font-weight:normal;
+            color:#FFF;
+            padding:0 10px;
+        }
+        .clocklg 
+        {
+            vertical-align:middle; 
+            font-family:Orbitron;
+            font-size:20px;
+            font-weight:normal;
+            color:#FFF;
+        }
+        .clc{
+            text-align: center;
+             font-style: italic;
+             font-weight: bold;
+             color: white;
+             font-size: 50px;
+            background-color: cornflowerblue;
+            padding: 15px;
+        }
+        .digi{
+            background-color:#dfcb1c;
+             margin-top: 100px;
+        max-width:300px;
+        width:100%;
+        margin:0 auto;
+        padding:100px;
+
+        }
